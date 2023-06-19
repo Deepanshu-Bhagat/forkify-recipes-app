@@ -1,4 +1,4 @@
-# forkify Project [Live Site] (https://forkify-deepanshu-updated.netlify.app)
+# forkify Project [Live Site](https://forkify-deepanshu-updated.netlify.app)
 
 Recipe application with custom recipe uploads.
 Users can search recipies they want. This application fetch data from an API.
